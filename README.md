@@ -1,5 +1,5 @@
 # Flipper_animations
-Animations for Flipper Zero by guilatoffi
+Animations for Flipper Zero by me
 
 
 Couteau(1) a nice blade animation
@@ -115,7 +115,7 @@ Instructions:
 
 
 
-credits: guilatoffi
+credits: me
 credits: mattis dovier 
 
 
